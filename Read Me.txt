@@ -1,0 +1,3 @@
+I initialized the variable when I created it in the 
+test.  I hope it's okay that I do it this way as it 
+achieves the same purpose.
